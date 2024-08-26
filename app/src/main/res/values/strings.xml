@@ -1,0 +1,15 @@
+ <resources>
+<string name="Converter">Converter</string>
+    <string-array name="spinnertext">
+        <item>from BYN to USD</item>
+        <item>from USD to BYN</item>
+        <item>from BYN to EURO</item>
+        <item>from EURO to BYN</item>
+        <item>from USD to EURO</item>
+        <item>from EURO to USD</item>
+
+    </string-array>
+    <string name="USD">%1$s, USD</string>
+    <string name="EURO">%1$s, EURO</string>
+    <string name="BYN">%1$s, BYN</string>
+</resources>
